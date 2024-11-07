@@ -44,7 +44,7 @@ namespace Terrasoft.Configuration.NsContactEventsNamespace
             var regionEntities = esqRegion.GetEntityCollection(userConnection);
             if (regionEntities.Count == 0)
             {
-                return; // Если регион не найден
+                return;
             }
 
             var region = regionEntities[0];
