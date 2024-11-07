@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "40aa17ce-c952-1da2-5298-99deb0e6562a",
+    "Name": "TestTaskPackage",
+    "ModifiedOnUtc": "\/Date(1730280750000)\/",
+    "Maintainer": "Customer",
+    "Description": "A package with the completion of a test task for the \"Treatment programs\" section",
+    "DependsOn": [
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}

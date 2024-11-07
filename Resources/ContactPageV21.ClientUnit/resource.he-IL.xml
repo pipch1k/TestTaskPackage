@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Display schema - Contact card" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="פעילויות" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="מידע על ניסיון תעסוקתי של איש הקשר השתנה. האם להוסיף רשומה חדשה בפירוט של ניסיון תעסוקתי?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="משאבי איש קשר" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="יש לציין לפחות פרופיל רשת חברתי אחד עבור איש הקשר כדי להריץ פעולה זו." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="השלם באמצעות מידע מרשתות חברתיות" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="מידע אודות איש הקשר" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="היסטוריה" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="תעסוקה נוכחית" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="קבצים והערות" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="הערות" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="כדי לבצע את הפעולה, ציין לפחות חשבון רשת חברתי אחד עבור איש הקשר" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="שם מלא של בעל הרשומה. בחר את הבעלים מתוך אנשי קשר הרשומים כמשתמשים במערכת." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Contact's preferred language. Creatio will use email templates in this language for email notifications. If a template in the contact's preferred language is unavailable, Creatio will use a &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;default language&lt;/a&gt; template. You can select only active languages. Go to the &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;Languages lookup&lt;/a&gt; to activate/deactivate languages&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="לוח הודעות" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="אישורים" />
+		</Items>
+	</Group>
+</Resources>

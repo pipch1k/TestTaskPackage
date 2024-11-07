@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Лечебные программы" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.Notes.Caption" Value="Заметки" />
+			<Item Name="Columns.NsCode.Caption" Value="Код" />
+			<Item Name="Columns.NsComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.NsIsActive.Caption" Value="Активно" />
+			<Item Name="Columns.NsPeriodicity.Caption" Value="Периодичность" />
+			<Item Name="Columns.NsResponsible.Caption" Value="Ответственный" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "61f59c66-e612-4c97-92ff-7f481019ff1d",
+    "Name": "TimelinePageSetting_ContactPageV21_Data",
+    "ModifiedOnUtc": "\/Date(1730366640000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "657e9446-2d2f-4531-a636-f42ea2aee1b7",
+      "Name": "TimelinePageSetting"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "b16d81eb-d1fc-4977-8005-7c914268ef0e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Key",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ecc876bf-5813-4ea5-9b21-1586f898467f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Data",
+        "DataTypeValueUId": "b7342b7a-5dde-40de-aa7c-24d2a57b3202"
+      }
+    ]
+  }
+}

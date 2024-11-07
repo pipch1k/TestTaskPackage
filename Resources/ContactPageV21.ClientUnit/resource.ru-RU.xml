@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Контакт&quot; (Контактное лицо)" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTIgMTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMTIgMTEyIj48cGF0aCBkPSJtMTEwLjkgOTguMmwtMzEuNS0xNC0xLjItMy44Yy0uNC0xLjMtLjktMi42LTIuMS0yLjktLjQtLjEtLjktLjgtLjktMS4zbC0uNy03LjVjMC0uNi4yLTEuMi42LTEuNiAyLTIuNCAzLjEtNS4zIDMuNi04LjUuMi0xLjYgMS4xLTMuMSAxLjUtNC43bDEuNy04LjljLjItMS4yLjEtMi4xLTEuMi0yLjUtLjQtLjEtLjctLjctLjctMS42IDAgMCAxLjYtMTEuNiAxLjEtMTUuNy0uNy01LjQtNC44LTE2LjMtMTYtMTUuNy0yOS44LTguNy0yNy42IDUuOC0zNy45IDEwLjEgMi45IDIuMSA0LjkgMS44IDYuNSAxLjItLjUuNC00LjEuNi01LjggNy44IDIuMS0yLjcgMy4yLTIuNyA0LjYtMy41LTMuNCAxLjktLjMgMTMuMy0uMiAxNC40djEuNWMwIC43LS4zIDEuNS0uNyAxLjYtMS4zLjUtMS4zIDEuNC0xLjIgMi41bDEuNyA4LjljLjQgMS42IDEuMyAzLjEgMS41IDQuNy41IDMuMiAxLjYgNi4xIDMuNiA4LjUuMy40LjYgMSAuNiAxLjZsLS43IDcuNWMtLjEuNS0uNSAxLjItLjkgMS4zLTEuMi4zLTEuOCAxLjYtMi4xIDIuOWwtMS4yIDMuOC0zMS44IDEzLjljLS43LjQtMS4xIDEuMS0xLjEgMS45djkuOGMwIDEuMi45IDIuMSAyLjEgMi4xaDEwNy44YzEuMiAwIDIuMS0uOSAyLjEtMi4xdi05LjhjMC0uOC0uNC0xLjUtMS4xLTEuOSIgZmlsbD0iI2NhY2FjYSIvPjwvc3ZnPg==" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Активности" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Данные о месте работы контакта изменены. Следует ли добавить новую запись на деталь Карьера?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Ресурсы контакта" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Для выполнения действия необходимо указать хотя бы одну учетную запись для контакта в соц. сетях." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Заполнить данными из соц. сетей" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="История" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Место работы" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Примечания" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Для выполнения действия необходимо указать хотя бы одну учетную запись для контакта в соц. сетях" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="ФИО ответственного сотрудника. Выбор из списка контактов, по которым зарегистрирован пользователь системы" />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Этот язык будет использоваться для выбора шаблонов при отправке email-сообщений контакту. Если шаблон на указанном языке не будет найден, то Creatio использует шаблон на &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;языке по умолчанию&lt;/a&gt;. Для выбора доступны только активные языки. Перейти в &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;справочник «Языки»&lt;/a&gt; для управления языками&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Визы" />
+		</Items>
+	</Group>
+</Resources>

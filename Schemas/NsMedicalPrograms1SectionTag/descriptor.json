@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bfd12e67-2e85-4639-8283-f52179407241",
+    "Name": "NsMedicalPrograms1SectionTag",
+    "ModifiedOnUtc": "\/Date(1730283144000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Лечебные программы",
+    "DependsOn": []
+  }
+}

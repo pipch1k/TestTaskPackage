@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "79841b1d-abd6-4414-8469-8ff378b0079b",
+    "Name": "NsSessionStatus",
+    "ModifiedOnUtc": "\/Date(1730563722000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние сеанса"
+  }
+}

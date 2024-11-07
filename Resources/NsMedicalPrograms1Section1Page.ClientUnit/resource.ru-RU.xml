@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Лечебные программы&quot;" />
+			<Item Name="LocalizableStrings.NsSessionsDetailCaptionOnPage.Value" Value="Сеанс" />
+		</Items>
+	</Group>
+</Resources>

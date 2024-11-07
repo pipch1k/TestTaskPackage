@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cc14ca2f-7118-46f7-a9e5-671cbca37118"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "b22f91a9-69aa-49ed-93ce-9bee97d27bb5",
+          "DisplayValue": "Общее"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "02144c7b-7674-446f-ac5e-e24dddf10993",
+          "DisplayValue": "Лечебные программы"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 30
+        }
+      ]
+    }
+  ]
+}

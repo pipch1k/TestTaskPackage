@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Display schema - Contact card" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTIgMTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMTIgMTEyIj48cGF0aCBkPSJtMTEwLjkgOTguMmwtMzEuNS0xNC0xLjItMy44Yy0uNC0xLjMtLjktMi42LTIuMS0yLjktLjQtLjEtLjktLjgtLjktMS4zbC0uNy03LjVjMC0uNi4yLTEuMi42LTEuNiAyLTIuNCAzLjEtNS4zIDMuNi04LjUuMi0xLjYgMS4xLTMuMSAxLjUtNC43bDEuNy04LjljLjItMS4yLjEtMi4xLTEuMi0yLjUtLjQtLjEtLjctLjctLjctMS42IDAgMCAxLjYtMTEuNiAxLjEtMTUuNy0uNy01LjQtNC44LTE2LjMtMTYtMTUuNy0yOS44LTguNy0yNy42IDUuOC0zNy45IDEwLjEgMi45IDIuMSA0LjkgMS44IDYuNSAxLjItLjUuNC00LjEuNi01LjggNy44IDIuMS0yLjcgMy4yLTIuNyA0LjYtMy41LTMuNCAxLjktLjMgMTMuMy0uMiAxNC40djEuNWMwIC43LS4zIDEuNS0uNyAxLjYtMS4zLjUtMS4zIDEuNC0xLjIgMi41bDEuNyA4LjljLjQgMS42IDEuMyAzLjEgMS41IDQuNy41IDMuMiAxLjYgNi4xIDMuNiA4LjUuMy40LjYgMSAuNiAxLjZsLS43IDcuNWMtLjEuNS0uNSAxLjItLjkgMS4zLTEuMi4zLTEuOCAxLjYtMi4xIDIuOWwtMS4yIDMuOC0zMS44IDEzLjljLS43LjQtMS4xIDEuMS0xLjEgMS45djkuOGMwIDEuMi45IDIuMSAyLjEgMi4xaDEwNy44YzEuMiAwIDIuMS0uOSAyLjEtMi4xdi05LjhjMC0uOC0uNC0xLjUtMS4xLTEuOSIgZmlsbD0iI2NhY2FjYSIvPjwvc3ZnPg==" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Activities" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Information about contact job experience was changed. Add new record on the Job experience detail?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Contact resources" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="At least one social network profile must be specified for the contact in order to run this action." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Fill in with data from social networks" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="History" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Current employment" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Attachments and notes" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notes" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="To perform the action, specify at least one social network account for the contact" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="Full name of the record owner. Select the owner from the contacts registered as users in the system." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Contact's preferred language. Creatio will use email templates in this language for email notifications. If a template in the contact's preferred language is unavailable, Creatio will use a &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;default language&lt;/a&gt; template. You can select only active languages. Go to the &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;Languages lookup&lt;/a&gt; to activate/deactivate languages&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Approvals" />
+		</Items>
+	</Group>
+</Resources>

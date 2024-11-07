@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "da32bb75-f0df-436b-84f8-176677c0f585",
+    "Name": "Schema0509a03cDetail",
+    "ModifiedOnUtc": "\/Date(1730564226000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Сеансы\""
+  }
+}

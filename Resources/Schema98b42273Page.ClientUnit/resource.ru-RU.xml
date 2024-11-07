@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Сеанс" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Сеанс" />
+			<Item Name="LocalizableStrings.NsProcedureDetailCaptionOnPage.Value" Value="Процедура" />
+			<Item Name="LocalizableStrings.NsTabProcedureTabCaption.Value" Value="Процедуры" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "78842bbf-5140-4950-a19e-ec6ec7d62992",
+    "Name": "NsSumTimeSessionsService",
+    "ModifiedOnUtc": "\/Date(1730565374000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Веб-сервис сумма времени сеансов"
+  }
+}

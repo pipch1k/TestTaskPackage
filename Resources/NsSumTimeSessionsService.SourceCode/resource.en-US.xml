@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Веб-сервис сумма времени сеансов" />
+			<Item Name="Description" Value="Веб-сервис, который по строковому коду лечебной программы будет возвращать сумму длительности запланированных в ней сеансов." />
+		</Items>
+	</Group>
+</Resources>

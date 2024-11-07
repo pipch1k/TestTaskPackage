@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="مخطط العرض - بطاقة جهة الاتصال" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="أنشطة" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Information about contact job experience was changed. Add new record on the Job experience detail?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="موارد جهات الاتصال" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="يجب تحديد ملف تعريف شبكة اجتماعية واحدة على الأقل لجهة الاتصال من أجل تشغيل هذا الإجراء." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="ملء البيانات من الشبكات الاجتماعية" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="معلومات الاتصال" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="أرشيف" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="الوظيفة الحالية" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="المرفقات والملاحظات" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="الملاحظات" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="لتنفيذ الإجراء، حدد حساب شبكة اجتماعية واحدة على الأقل لجهة الاتصال" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="الاسم الكامل لمالك السجل. حدد المالك من جهات الاتصال المسجلة كمستخدمين في النظام." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Contact's preferred language. Creatio will use email templates in this language for email notifications. If a template in the contact's preferred language is unavailable, Creatio will use a &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;default language&lt;/a&gt; template. You can select only active languages. Go to the &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;Languages lookup&lt;/a&gt; to activate/deactivate languages&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="تغذية" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="الموافقات" />
+		</Items>
+	</Group>
+</Resources>

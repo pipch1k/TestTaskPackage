@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Anzeigeschema - Kontaktkarte" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Aktivitäten" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Information über Berufserfahrung des Konakts wurde geändert. Neuen Satz zu Berufserfahrungsdetail hinzufügen?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Kontakt Ressourcen" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Für diese Aktion muss mindesten ein Soziales Netzwerkprofile für den Kontakt spezifiziert sein." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Fülle mit Daten aus den sozialen Netzwerken" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Kontaktinfo" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Historie" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Aktuelle Beschäftigung" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Anhänge und Notizen" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notizen" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Geben Sie mindestens einen Soziales-Netzwerk-Account für den Kontakt an, um diese Aktion auszuführen" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="Vollständiger Name des Besitzers des Satzes. Wählen Sie den Besitzer aus den Kontakten, die im System als Nutzer registriert sind." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Contact's preferred language. Creatio will use email templates in this language for email notifications. If a template in the contact's preferred language is unavailable, Creatio will use a &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;default language&lt;/a&gt; template. You can select only active languages. Go to the &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;Languages lookup&lt;/a&gt; to activate/deactivate languages&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Bestätigungen" />
+		</Items>
+	</Group>
+</Resources>

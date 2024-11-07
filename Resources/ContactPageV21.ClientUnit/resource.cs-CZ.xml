@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Karta - Karta kontaktu" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Aktivity" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Informace o zaměstnání kontaktu se změnila. Přidat nový záznam na detail &quot;Zaměstnání&quot;?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Zdroje kontaktu" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Pro spuštění této akci minimálně jeden profil kontaktu na sociálních sítích musí byt specifikován." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Načíst data ze soc. sítí" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Základní informace" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Historie" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Zaměstnání" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Přílohy a poznámky" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Poznámky" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Pro spuštění této akce musíte nejdříve určit kontaktu alespoň jeden účet na sociální síti" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="Celé jméno vlastníka záznamu. Zvolte vlastníka ze seznamu kontaktů registrovaných jako uživatele systému." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Contact's preferred language. Creatio will use email templates in this language for email notifications. If a template in the contact's preferred language is unavailable, Creatio will use a &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;default language&lt;/a&gt; template. You can select only active languages. Go to the &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;Languages lookup&lt;/a&gt; to activate/deactivate languages&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Sociální síť" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Schvalování" />
+		</Items>
+	</Group>
+</Resources>

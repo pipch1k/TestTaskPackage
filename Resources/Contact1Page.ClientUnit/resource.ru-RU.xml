@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Контакт&quot; (Сотрудник)" />
+			<Item Name="LocalizableStrings.InvalidEmailFormatMessage.Value" Value="Введите Email в формате: user@domen.zone" />
+		</Items>
+	</Group>
+</Resources>

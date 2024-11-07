@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "088a5241-8a83-43a5-b8e1-2c7904133fc7",
+    "Name": "NsAccessRight",
+    "ModifiedOnUtc": "\/Date(1730967552000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Изменение прав доступа"
+  }
+}

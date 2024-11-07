@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Afficher la structure - Fiche du contact" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Activités" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Les informations sur l'expérience professionnelle du contact ont été modifiées. Ajouter un nouvel enregistrement relative à l'expérience professionnelle?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Ressources du contact" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Au moins un profil de réseau social doit être spécifié pour le compte afin de pouvoir effectuer cette action." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Compléter avec les données des réseaux sociaux" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Info du contact" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Historique" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Fonctions" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Pièces jointes et notes" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notes" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Pour effectuer cette action, spécifiez au moins un compte de réseau social pour le contact" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="Nom du responsable de l'enregistrement. Sélectionnez le responsable parmi les contacts du système." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt; Langue préférée du contact. Creatio utilisera des modèles de mail dans cette langue pour les notifications par emails. Si un modèle dans la langue préférée du contact n'est pas disponible, Creatio utilisera une &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt; langue par défaut &lt;/a&gt; modèle. Vous ne pouvez sélectionner que les langues actives. Accédez à la &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt; Recherche de langues &lt;/a&gt; pour activer / désactiver les langues &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Approbations" />
+		</Items>
+	</Group>
+</Resources>

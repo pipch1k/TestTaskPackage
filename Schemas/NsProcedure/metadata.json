@@ -1,0 +1,81 @@
+= MetaData.Schema.UId "02cc21e0-c685-488b-ba70-a01c52e6a31a"
+= MetaData.Schema.A2 "NsProcedure"
+= MetaData.Schema.A5 "82a21e1e-201d-40e1-a247-618ac798d891"
+= MetaData.Schema.B6 "40aa17ce-c952-1da2-5298-99deb0e6562a"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "9dbacdad-4e03-4677-a6fc-c05a32e9bbec"
+= MetaData.Schema.EG1.A2 "NsProcedureEventsProcess"
+= MetaData.Schema.EG1.A5 "82a21e1e-201d-40e1-a247-618ac798d891"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "23f4ac21-b945-4347-8695-3cf30f977312"
++ MetaData.Schema.D2 {
+  "UId": "23f4ac21-b945-4347-8695-3cf30f977312",
+  "A2": "Name",
+  "A3": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+  "A4": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+  "A5": "82a21e1e-201d-40e1-a247-618ac798d891",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "5b823a3e-d5c0-4c75-a8dc-9ab6de379f1f",
+  "A2": "NsSessions",
+  "A3": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+  "A4": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+  "A5": "82a21e1e-201d-40e1-a247-618ac798d891",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "d95b2754-9ad0-46c0-a2f7-32c041e45be5",
+  "E2": 1,
+  "E5": false,
+  "E9": true,
+  "E17": "NsSessionsId"
+}
++ MetaData.Schema.D2 {
+  "UId": "e6482bae-d93d-44db-a87a-46c2779de78d",
+  "A2": "NsMedicalProgram",
+  "A3": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+  "A4": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+  "A5": "82a21e1e-201d-40e1-a247-618ac798d891",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4ee327f9-a227-4255-9a4b-50c7e2f4edd0",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "NsMedicalProgramId",
+  "E18": "NsMedicalProgramName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","23f4ac21-b945-4347-8695-3cf30f977312","5b823a3e-d5c0-4c75-a8dc-9ab6de379f1f","e6482bae-d93d-44db-a87a-46c2779de78d"]
+= MetaData.Schema.D20.A2 "NsProcedureEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

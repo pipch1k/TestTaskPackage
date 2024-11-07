@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "02cc21e0-c685-488b-ba70-a01c52e6a31a",
+    "Name": "NsProcedure",
+    "ModifiedOnUtc": "\/Date(1730568578000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Процедура"
+  }
+}

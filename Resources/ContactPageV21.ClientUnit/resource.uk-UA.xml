@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема відображення картки контакта" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Активності" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Дані про місце роботи контакту змінені. Слід додати новий запис на деталь Кар'єра?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Ресурси контакту" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Для виконання дії необхідно вказати хоча б один обліковий запис для контакту в соц. мережах." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Заповнити даними з соц. мереж" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Основна інформація" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Історія" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Місце роботи" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Файли та примітки" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Примітки" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Для виконання дії необхідно вказати хоча б один обліковий запис для контакту в соц. мережах" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="ПІБ відповідального співробітника. Вибір зі списку контактів, за якими зареєстрований користувач системи" />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Цю мову буде використано для вибору шаблонів при відправленні email-повідомлень контакту. Якщо шаблон на зазначеній мові не буде знайдений, то Creatio використає шаблон на&lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;мові за замовчуванням&lt;/a&gt;. Для вибору доступні тільки активні мови. Перейти в &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;довідник «Мови»&lt;/a&gt; для керування мовами&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Візи" />
+		</Items>
+	</Group>
+</Resources>

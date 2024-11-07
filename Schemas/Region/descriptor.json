@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f17eab23-13a0-48db-860a-6b6393ef0f27",
+    "Name": "Region",
+    "ModifiedOnUtc": "\/Date(1730820630000)\/",
+    "Parent": {
+      "UId": "fa4eb497-e6a3-4f8c-8568-5df4bd2a8b91",
+      "Name": "Region"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Области/штаты"
+  }
+}

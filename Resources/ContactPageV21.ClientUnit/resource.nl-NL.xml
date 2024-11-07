@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ContactPageV2" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Activiteiten" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Informatie over contact werkervaring werd veranderd. Voeg een nieuwe record toe aan de werkervaring?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Contact middelen" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Ten minste één sociaal netwerk profiel moet worden opgegeven voor de contactpersoon om deze actie uit te voeren." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Vul aan met gegevens van sociale netwerken" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Contact informatie" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Historie" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Huidige werkervaring" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Bijlagen en notities" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Aantekeningen" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Om de actie uit te voeren, geeft u ten minste één sociaal netwerk-account voor het contact" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="De volledige naam van de recordeigenaar. Selecteer de eigenaar van van het contract als gebruikers in het systeem." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt; De voorkeurstaal van het contact. Creatio gebruikte e-mail opgenomen in deze taal voor e-mailmeldingen. Als een sjabloon in de voorkeurstaal van de contactpersoon niet beschikbaar is, gebruikt Creatio een &lt;a href=&quot;../0/Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt; standaardtaal &lt;/a&gt; sjabloon. U kunt alleen actief talent selecteren. Ga naar de &lt;a href=&quot;../0/Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt; Talen zoeken &lt;/a&gt; om talen te activeren / deactiveren &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Goedkeuringen" />
+		</Items>
+	</Group>
+</Resources>

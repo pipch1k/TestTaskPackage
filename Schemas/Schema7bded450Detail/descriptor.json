@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cec1b7f0-5bcc-4f89-87fd-529964373f86",
+    "Name": "Schema7bded450Detail",
+    "ModifiedOnUtc": "\/Date(1730567584000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Процедуры\""
+  }
+}

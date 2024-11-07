@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "80ff1314-c476-4f6c-a565-c28ec8538889",
+    "Name": "NsMedicalPrograms1SectionInFolder",
+    "ModifiedOnUtc": "\/Date(1730283142000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Лечебные программы в группе",
+    "DependsOn": []
+  }
+}

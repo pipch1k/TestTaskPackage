@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Hiển thị lược đồ - Danh thiếp" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Những hoạt động" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Thông tin về kinh nghiệm công việc liên lạc đã bị thay đổi. Thêm bản ghi mới vào Chi tiết kinh nghiệm công việc?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Các nguồn liên hệ" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Có ít nhất một hồ sơ mạng xã hội phải được làm rõ cho liên lạc nhằm để chạy hành động này." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Điền vào dữ liệu từ các mạng xã hội" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Thông tin liên hệ" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Lịch sử" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Công việc hiện tại" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Đính kèm và ghi chú" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Các ghi chú" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Để thực hiện hành động, chỉ định ít nhất một tài khoản mạng xã hội cho danh bạ" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="Tên đầy đủ của chủ bản ghi. Chọn chủ từ các danh bạ đã đăng ký với tư cách người dùng trong hệ thống." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt; Ngôn ngữ ưa thích của liên hệ. Creatio sẽ sử dụng các mẫu email bằng ngôn ngữ này cho các thông báo qua email. Nếu mẫu ở ngôn ngữ ưu tiên của liên hệ không khả dụng, Creatio sẽ sử dụng &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt; ngôn ngữ mặc định &lt;/ a&gt; mẫu. Bạn chỉ có thể chọn các ngôn ngữ đang hoạt động. Đi tới &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt; Tra cứu ngôn ngữ &lt;/a&gt; để kích hoạt / hủy kích hoạt ngôn ngữ &lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Tin tức" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Các phê duyệt" />
+		</Items>
+	</Group>
+</Resources>

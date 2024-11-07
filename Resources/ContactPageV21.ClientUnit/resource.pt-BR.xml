@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Esquema de Exibição - Cartão de contato" />
+			<Item Name="Images.3c547c89-24a7-4313-b3bc-21816dc94483.Caption" Value="DefaultPhoto" />
+			<Item Name="LocalizableStrings.ActivitiesTabCaption.Value" Value="Atividades" />
+			<Item Name="LocalizableStrings.ContactCareerInfoChanged.Value" Value="Informações sobre experiência profissional do contato alteradas. Adicionar novo registro nos dados de experiência profissional?" />
+			<Item Name="LocalizableStrings.ContactResourcesCaption.Value" Value="Recursos de contato" />
+			<Item Name="LocalizableStrings.FillContactQuestion.Value" Value="Pelo menos um perfil de rede social deve ser especificado para a conta para executar esta ação." />
+			<Item Name="LocalizableStrings.FillSocialDataCaption.Value" Value="Preencher com dados de redes sociais" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Informações de contato" />
+			<Item Name="LocalizableStrings.HistoryTabCaption.Value" Value="Histórico" />
+			<Item Name="LocalizableStrings.JobTabCaption.Value" Value="Emprego atual" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Anexos e notas" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Notas" />
+			<Item Name="LocalizableStrings.OpenContactCardQuestion.Value" Value="Para executar a ação, especifique pelo menos uma conta de rede social para o contato" />
+			<Item Name="LocalizableStrings.OwnerTip.Value" Value="Nome completo do dono do registro. Selecione o dono dos contatos registrados como usuários no sistema." />
+			<Item Name="LocalizableStrings.PreferredLanguageTipMessage.Value" Value="&lt;p&gt;Contact's preferred language. Creatio will use email templates in this language for email notifications. If a template in the contact's preferred language is unavailable, Creatio will use a &lt;a href=&quot;../Nui/ViewModule.aspx#CardModuleV2/SysSettingPage/edit/8fc03719-87fe-4652-add0-3c1038607af8&quot;&gt;default language&lt;/a&gt; template. You can select only active languages. Go to the &lt;a href=&quot;../Nui/ViewModule.aspx#LookupSectionModule/CustomerLanguagesLookupSection&quot;&gt;Languages lookup&lt;/a&gt; to activate/deactivate languages&lt;/p&gt;" />
+			<Item Name="LocalizableStrings.RibbonTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Aprovações" />
+		</Items>
+	</Group>
+</Resources>

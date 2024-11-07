@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "48f4ea78-1965-4077-809b-657711a68e8d",
+    "Name": "NsMedicalPrograms1Section1Page",
+    "ModifiedOnUtc": "\/Date(1730882456000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Лечебные программы\""
+  }
+}

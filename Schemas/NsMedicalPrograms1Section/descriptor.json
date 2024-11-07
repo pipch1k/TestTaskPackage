@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ee327f9-a227-4255-9a4b-50c7e2f4edd0",
+    "Name": "NsMedicalPrograms1Section",
+    "ModifiedOnUtc": "\/Date(1730564149000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Лечебные программы"
+  }
+}
